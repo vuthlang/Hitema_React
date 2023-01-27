@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar-brand {
+    color: #AC3B61;
+}
+
+.navbar-brand:hover {
+    color: #EDC7B7;
+}
+
+.mention-legale {
+    white-space: break-spaces;
+}
+
+/* Product */
+
+
+
+/* Cart */
+
+.cart {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.checkout button {
+    width: 150px;
+    height: 50px;
+    background-color: rgb(1, 0, 50);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    margin: 10px;
+    cursor: pointer;
+}
