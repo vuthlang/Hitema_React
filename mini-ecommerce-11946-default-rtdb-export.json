@@ -1,0 +1,31 @@
+{
+  "products": [
+    null,
+    {
+      "link": "https://www.chrono24.com/seiko/kinetic-srn--id25192124.htm",
+      "name": "Cartier",
+      "price": 250,
+      "src": "https://images.pexels.com/photos/9978788/pexels-photo-9978788.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "text": "Mens"
+    },
+    {
+      "link": "www.cartier.com/en-pt/rotonde-de-cartier-annual-calendar-watch_cod25372685655505436.html",
+      "name": "Cartier",
+      "price": 40.6,
+      "src": "https://images.pexels.com/photos/9878624/pexels-photo-9878624.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "text": "Mens"
+    },
+    {
+      "name": "Cartier",
+      "price": 1500,
+      "src": "https://images.pexels.com/photos/9978941/pexels-photo-9978941.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "text": "Mens"
+    },
+    {
+      "name": "Armani",
+      "price": 879,
+      "src": "https://images.pexels.com/photos/9982601/pexels-photo-9982601.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "text": "Mens"
+    }
+  ]
+}
