@@ -7,7 +7,6 @@ import "./style.css"
 import App from './App';
 import Product from "./components/Product";
 import MentionLegale from "./components/front/MentionLegale";
-import { Catalogue } from "./components/Catalogue";
 import Cart from "./components/Cart";
 import { AddToCart, AddToCartProvider } from "./components/back/AddToCart";
 
